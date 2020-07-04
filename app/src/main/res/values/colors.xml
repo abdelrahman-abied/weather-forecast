@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FA7907</color>
+    <color name="colorPrimaryDark">#DD6C03</color>
+    <color name="colorAccent">#f37121</color>
+    <color name="forecast_item_background">#EEE8E6E6</color>
+</resources>
