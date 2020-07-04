@@ -5,7 +5,6 @@
 user can see current weather and weekly weather forecast 
 
 # Technology used
-## I tried to make a simple app as an application on the latest technology that is in Android until now
 
 ## By using
 * Kotlin
